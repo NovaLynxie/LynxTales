@@ -1,29 +1,13 @@
-filename = 'emf_compat_exposure_neoforge_1.21.1_1.0.1.jar'
-name = 'EMF Compat: Exposure'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'emf_compat_exposure_neoforge_1.21.1_1.0.1.jar'
+name = "EMF Compat: Exposure"
+filename = "emf_compat_exposure_neoforge_1.21.1_1.0.1.jar"
+side = "both"
 
 [download]
-hash = 'e88589958dca8c6c73f994747d4e18136c229b20'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "e88589958dca8c6c73f994747d4e18136c229b20"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9524694
 project-id = 1629285
-
-[[x-prismlauncher-dependencies]]
-addonId = '1605113'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '844662'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '871755'
-type = 'REQUIRED'

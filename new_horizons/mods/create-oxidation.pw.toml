@@ -1,21 +1,13 @@
-filename = 'createoxidized-neoforge-1.21.1-1.0.0.jar'
-name = 'Create: Oxidation'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Create: Oxidation - NeoForge - 1.21.1 - 1.0.0'
+name = "Create: Oxidation"
+filename = "createoxidized-neoforge-1.21.1-1.0.0.jar"
+side = "both"
 
 [download]
-hash = 'bfe8d72417ac2269f328c19e000993b8768069c7'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "bfe8d72417ac2269f328c19e000993b8768069c7"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9682933
 project-id = 1810413
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'

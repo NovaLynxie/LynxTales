@@ -1,45 +1,13 @@
-filename = 'mca_descendants-neoforge-1.2.7.jar'
-name = 'MCA Descendants'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'mca_descendants-neoforge-1.2.7.jar'
+name = "MCA Descendants"
+filename = "mca_descendants-neoforge-1.2.7.jar"
+side = "both"
 
 [download]
-hash = '2253b8871749026606489b2a3e0db371f286f7ec'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "2253b8871749026606489b2a3e0db371f286f7ec"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9477051
 project-id = 1510862
-
-[[x-prismlauncher-dependencies]]
-addonId = '535291'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '274259'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '353935'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1521718'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1719563'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '419699'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1612028'
-type = 'OPTIONAL'

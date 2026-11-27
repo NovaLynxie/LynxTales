@@ -1,21 +1,13 @@
-filename = 'fletchery_expanded-neoforge-1.21.1-2.0.1.jar'
-name = 'Fletchery Expanded'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'fletchery_expanded-neoforge-1.21.1-2.0.1.jar'
+name = "Fletchery Expanded"
+filename = "fletchery_expanded-neoforge-1.21.1-2.0.1.jar"
+side = "both"
 
 [download]
-hash = '00f6552f29e4fec6ddb480f86264703d68c552b3'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "00f6552f29e4fec6ddb480f86264703d68c552b3"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9334643
 project-id = 1630449
-
-[[x-prismlauncher-dependencies]]
-addonId = '348521'
-type = 'OPTIONAL'

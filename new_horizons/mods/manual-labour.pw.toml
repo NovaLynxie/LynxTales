@@ -1,33 +1,13 @@
-filename = 'manual_labour-1.21.1-2.6.2.jar'
-name = 'Manual Labour'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Manual Labour 1.21.1 - 2.6.2'
+name = "Manual Labour"
+filename = "manual_labour-1.21.1-2.6.3.jar"
+side = "both"
 
 [download]
-hash = '5fd5625cdb822f57660ae20239c8ec622413400f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "1e6d348809cfd8565334a6522794ab4093bb96ab"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 9789701
+file-id = 9840244
 project-id = 1642344
-
-[[x-prismlauncher-dependencies]]
-addonId = '667299'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '486392'
-type = 'EMBEDDED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '238222'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'OPTIONAL'

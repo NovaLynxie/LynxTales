@@ -1,33 +1,13 @@
-filename = 'mcareputation-0.6.1.jar'
-name = 'MCA: Reputation'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'MCA: Reputation 0.6.1 (NeoForge 1.21.1)'
+name = "MCA: Reputation"
+filename = "mcareputation-0.6.1.jar"
+side = "both"
 
 [download]
-hash = '9980e41ae01acffc3c2ee0c0af2e79b595acf59f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "9980e41ae01acffc3c2ee0c0af2e79b595acf59f"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9023880
 project-id = 1656551
-
-[[x-prismlauncher-dependencies]]
-addonId = '1673888'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1579993'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '535291'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1601191'
-type = 'OPTIONAL'

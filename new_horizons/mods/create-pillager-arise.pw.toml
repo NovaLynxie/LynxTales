@@ -1,33 +1,13 @@
-filename = 'create_pillagers_arise NeoForge 1.21.1-132.36.jar'
-name = 'Create: Pillager Arise'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'create_pillagers_arise NeoForge 1.21.1-132.36.jar'
+name = "Create: Pillager Arise"
+filename = "create_pillagers_arise NeoForge 1.21.1-132.36.jar"
+side = "both"
 
 [download]
-hash = 'ffc083a957c3e527d9aabf3fb851b780ef443b5a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "ffc083a957c3e527d9aabf3fb851b780ef443b5a"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8329999
 project-id = 1094958
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1071766'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1104939'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1010066'
-type = 'OPTIONAL'

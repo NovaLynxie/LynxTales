@@ -1,21 +1,13 @@
-filename = 'create_strict_links-neoforge-1.21.1-1.1.1.jar'
-name = 'Create: Strict Links'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'create_strict_links-neoforge-1.21.1-1.1.1.jar'
+name = "Create: Strict Links"
+filename = "create_strict_links-neoforge-1.21.1-1.1.1.jar"
+side = "both"
 
 [download]
-hash = '3fea164ec4213cf93477424c62d1b43941566dad'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "3fea164ec4213cf93477424c62d1b43941566dad"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9439009
 project-id = 1540428
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'

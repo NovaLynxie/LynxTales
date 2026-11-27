@@ -1,18 +1,13 @@
-filename = 'DnT-pillager-outpost-overhaul-v2.2 [NeoForge].jar'
-name = 'DnT Pillager Outpost Overhaul'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = 'DnT-pillager-outpost-overhaul-v2.2 [NeoForge].jar'
+name = "DnT Pillager Outpost Overhaul"
+filename = "DnT-pillager-outpost-overhaul-v2.2 [NeoForge].jar"
+side = "both"
 
 [download]
-hash = 'bba5591cf6a494fa734ce6a21ae00662eb7223b0'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "bba5591cf6a494fa734ce6a21ae00662eb7223b0"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5619504
 project-id = 920423

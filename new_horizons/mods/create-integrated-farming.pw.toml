@@ -1,25 +1,13 @@
-filename = 'create-integrated-farming-1.4.3.jar'
-name = 'Create: Integrated Farming'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Create: Integrated Farming 1.4.3 for Create 1.21.1-6.0.10'
+name = "Create: Integrated Farming"
+filename = "create-integrated-farming-1.4.4.jar"
+side = "both"
 
 [download]
-hash = '27cbb530828aa375450d005426e609d96cb254e9'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "5d20fe07527602f1475a26e387d32c813cba71a7"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 8937623
+file-id = 9676613
 project-id = 1249131
-
-[[x-prismlauncher-dependencies]]
-addonId = '1216624'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'

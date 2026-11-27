@@ -1,29 +1,13 @@
-filename = 'emf_compat_not_enough_animations_neoforge_1.21.1_1.2.2.jar'
-name = 'EMF Compat: Not Enough Animations'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'emf_compat_not_enough_animations_neoforge_1.21.1_1.2.2.jar'
+name = "EMF Compat: Not Enough Animations"
+filename = "emf_compat_not_enough_animations_neoforge_1.21.1_1.2.2.jar"
+side = "both"
 
 [download]
-hash = '9e8be16ac4bf483ad2cf4ca1c4284c3a8e9a5945'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "9e8be16ac4bf483ad2cf4ca1c4284c3a8e9a5945"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9524710
 project-id = 1605181
-
-[[x-prismlauncher-dependencies]]
-addonId = '844662'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1605113'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '433760'
-type = 'REQUIRED'

@@ -1,29 +1,13 @@
-filename = 'hostile_skies-0.2.6.jar'
-name = 'Create: Hostile Skies'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'hostile_skies-0.2.6.jar'
+name = "Create: Hostile Skies"
+filename = "hostile_skies-0.2.6.jar"
+side = "both"
 
 [download]
-hash = '25eadcdcf4db40b5e5e33f3aa7080f71fe4033ee'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "25eadcdcf4db40b5e5e33f3aa7080f71fe4033ee"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8957736
 project-id = 1629101
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1312371'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '676721'
-type = 'REQUIRED'

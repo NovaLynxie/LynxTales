@@ -1,25 +1,13 @@
-filename = 'EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar'
-name = 'Enchanting Infuser'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] EnchantingInfuser-v21.1.4'
+name = "Enchanting Infuser"
+filename = "EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar"
+side = "both"
 
 [download]
-hash = '62bfa1cf50abeb3034cd4477e6c995e16ab7965c'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "62bfa1cf50abeb3034cd4477e6c995e16ab7965c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7844709
 project-id = 551151
-
-[[x-prismlauncher-dependencies]]
-addonId = '495476'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '544048'
-type = 'OPTIONAL'

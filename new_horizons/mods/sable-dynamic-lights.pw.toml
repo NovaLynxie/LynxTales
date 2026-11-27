@@ -1,29 +1,13 @@
-filename = 'sable-dynamic-lights-1.21.1-2.0.1.jar'
-name = 'Sable Dynamic Lights (Create: Dynamic Lights fork)'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'Sable Dynamic Lights 2.0.1'
+name = "Sable Dynamic Lights (Create: Dynamic Lights fork)"
+filename = "sable-dynamic-lights-1.21.1-2.0.1.jar"
+side = "both"
 
 [download]
-hash = 'd0d8d1d47078d7bb617b9665a0fb9383bf84aaea'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "d0d8d1d47078d7bb617b9665a0fb9383bf84aaea"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8538633
 project-id = 1584370
-
-[[x-prismlauncher-dependencies]]
-addonId = '393442'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1312371'
-type = 'OPTIONAL'

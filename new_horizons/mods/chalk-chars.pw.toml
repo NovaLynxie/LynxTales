@@ -1,21 +1,13 @@
-filename = 'chalk-chars-1.0.1.jar'
-name = 'Chalk: Chars'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '26.3' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Chalk: Chars - 1.0.1'
+name = "Chalk: Chars"
+filename = "chalk-chars-1.0.1.jar"
+side = "both"
 
 [download]
-hash = '0fddad57523e96dc417793c4c5130220193b51c9'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "0fddad57523e96dc417793c4c5130220193b51c9"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9527448
 project-id = 1668280
-
-[[x-prismlauncher-dependencies]]
-addonId = '533748'
-type = 'REQUIRED'

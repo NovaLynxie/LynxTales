@@ -1,33 +1,13 @@
-filename = 'bits_n_tracks-3.0.4.jar'
 name = "Create: Bits 'n' Tracks Community Edition"
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.0.4'
+filename = "bits_n_tracks-3.0.4.jar"
+side = "both"
 
 [download]
-hash = 'd6f115d64b1f8885bd71cb317f78ef742b4c60eb'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "d6f115d64b1f8885bd71cb317f78ef742b4c60eb"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9758221
 project-id = 1749612
-
-[[x-prismlauncher-dependencies]]
-addonId = '676721'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1398383'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1312371'
-type = 'REQUIRED'

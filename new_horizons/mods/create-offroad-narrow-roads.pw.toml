@@ -1,18 +1,13 @@
-filename = 'offroadstepup-0.5.1.jar'
-name = 'Create Offroad: Narrow Roads'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'offroadstepup-0.5.1.jar'
+name = "Create Offroad: Narrow Roads"
+filename = "offroadstepup-0.5.1.jar"
+side = "both"
 
 [download]
-hash = '7c1933962a57de032010a437ec76dfd565901541'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "7c1933962a57de032010a437ec76dfd565901541"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9798165
 project-id = 1727227

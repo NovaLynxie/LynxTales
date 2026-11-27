@@ -1,21 +1,13 @@
-filename = 'brick_and_mortar-neoforge-1.21.1-1.3.1.jar'
-name = 'Brick & Mortar'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Brick and Mortar Neoforge 1.21.1 - 1.3.1'
+name = "Brick & Mortar"
+filename = "brick_and_mortar-neoforge-1.21.1-1.3.1.jar"
+side = "both"
 
 [download]
-hash = '397209ade65abf67c27356e55646d8f7de32cc84'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "397209ade65abf67c27356e55646d8f7de32cc84"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9236376
 project-id = 1557514
-
-[[x-prismlauncher-dependencies]]
-addonId = '348521'
-type = 'OPTIONAL'

@@ -1,21 +1,13 @@
-filename = 'simplytents-5.0-1.21.1.neo.jar'
-name = 'Simply Tents'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'simplytents-5.0-1.21.1.neo.jar'
+name = "Simply Tents"
+filename = "simplytents-6.0-1.21.1.neo.jar"
+side = "both"
 
 [download]
-hash = '2f5fc24182a3e7802189ed5760ad106dd77a59b7'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "1287656d6a6f6aebdd2b7dd4739262747aca804c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 8885082
+file-id = 9578921
 project-id = 1152882
-
-[[x-prismlauncher-dependencies]]
-addonId = '388172'
-type = 'REQUIRED'

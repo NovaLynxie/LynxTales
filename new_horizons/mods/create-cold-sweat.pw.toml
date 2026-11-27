@@ -1,25 +1,13 @@
-filename = 'create_cold_sweat-1.1.2.jar'
-name = 'Create: Cold Sweat'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'CCS 1.1.2'
+name = "Create: Cold Sweat"
+filename = "create_cold_sweat-1.1.2.jar"
+side = "both"
 
 [download]
-hash = '58326378dac966d664ae827dcc76e4b3a284d747'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "58326378dac966d664ae827dcc76e4b3a284d747"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 7214552
 project-id = 1184450
-
-[[x-prismlauncher-dependencies]]
-addonId = '506194'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'

@@ -1,21 +1,13 @@
-filename = 'connectiblechains-2.6.0-1.21.1-neoforge.jar'
-name = 'Reconnectible Chains'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Reconnectible Chains NeoForge 1.21.1 - 2.6.0'
+name = "Reconnectible Chains"
+filename = "connectiblechains-2.6.1-1.21.1-neoforge.jar"
+side = "both"
 
 [download]
-hash = 'bb67ad84496a71098a111710cc08f245ec636e38'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "0380d98765d20269c91deb3a88e5d76240a35f21"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 9698113
+file-id = 9820289
 project-id = 1451848
-
-[[x-prismlauncher-dependencies]]
-addonId = '667299'
-type = 'REQUIRED'

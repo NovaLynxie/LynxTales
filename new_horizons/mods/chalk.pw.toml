@@ -1,18 +1,13 @@
-filename = 'chalk-neoforge-1.21.1-2.0.3.jar'
-name = 'Chalk'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Chalk - NeoForge 1.21.1 - 2.0.3'
+name = "Chalk"
+filename = "chalk-neoforge-1.21.1-2.0.4.jar"
+side = "both"
 
 [download]
-hash = '6e7eff0cd223915e6cf26fa1c54eb95bde4fcd7a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "4944bcca10de0ff2c75aaed3ab898338f1433ebf"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 9395344
+file-id = 9848239
 project-id = 533748

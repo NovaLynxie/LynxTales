@@ -1,18 +1,13 @@
-filename = 'ThirstWasReclaimed-1.21.1-3.0.6.jar'
-name = 'Thirst Was Reclaimed'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'ThirstWasReclaimed-1.21.1-3.0.6.jar'
+name = "Thirst Was Reclaimed"
+filename = "ThirstWasReclaimed-1.21.1-3.0.7.jar"
+side = "both"
 
 [download]
-hash = 'cec6ffaa5651182dcdd2fb35b14aecdbae3ca1e8'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "484c1bb806b34f8a54688eb188580faaa746cbc9"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 8893710
+file-id = 9593285
 project-id = 884742

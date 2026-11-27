@@ -1,33 +1,13 @@
-filename = 'neoecoae-21.2.18.jar'
-name = 'Neo ECO AE Extension'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Neo ECO AE Extension v21.2.18'
+name = "Neo ECO AE Extension"
+filename = "neoecoae-21.3.0.jar"
+side = "both"
 
 [download]
-hash = 'f57df895c76ef8dcebda3e6084eb2be914968456'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "61d0403f87f01ec3155acfa067cc526b422d639a"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 9651586
+file-id = 9813970
 project-id = 1460639
-
-[[x-prismlauncher-dependencies]]
-addonId = '324717'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '223794'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '626676'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '238222'
-type = 'OPTIONAL'

@@ -1,25 +1,13 @@
-filename = 'createfactorycontroller-1.2.3-neoforge-1.21.1.jar'
-name = 'Create: Factory Controller'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'createfactorycontroller-1.2.3-neoforge-1.21.1.jar'
+name = "Create: Factory Controller"
+filename = "createfactorycontroller-1.2.4-neoforge-1.21.1.jar"
+side = "both"
 
 [download]
-hash = '53c1b253535c93db6a060c96e10f9e210a8340d7'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "e81fddc52008f72734d09c3eabc96018978d1a79"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 9224923
+file-id = 9696527
 project-id = 1573767
-
-[[x-prismlauncher-dependencies]]
-addonId = '1516421'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'

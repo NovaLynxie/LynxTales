@@ -1,21 +1,13 @@
-filename = 'powerchip-2.1.2.jar'
-name = 'Create: Power Chip'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'powerchip-v300a9'
+name = "Create: Power Chip"
+filename = "powerchip-2.1.2.jar"
+side = "both"
 
 [download]
-hash = '3e7367d5f15561294cdfc9b0cd5836f80f017000'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "3e7367d5f15561294cdfc9b0cd5836f80f017000"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9297214
 project-id = 1614619
-
-[[x-prismlauncher-dependencies]]
-addonId = '1321420'
-type = 'REQUIRED'
