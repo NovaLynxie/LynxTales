@@ -1,0 +1,13 @@
+name = "Lynx Tales: New Horizons"
+author = "Nova Lynxie"
+version = "1.0.0-indev_26w48a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f3dd165ccdd99c3e1ca18fe29d57d8e7994225bcd508e52cea5c3467d1bc8c4f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
