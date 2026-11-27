@@ -1,0 +1,21 @@
+filename = 'exposure_mail_and_news-neoforge-1.21.1-1.0.0.jar'
+name = 'Exposure: Mail and News'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'exposure_mail_and_news-neoforge-1.21.1-1.0.0.jar'
+
+[download]
+hash = '7d0575df0653d1fe18fc387debcc2f7a30b2be4f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9324372
+project-id = 1758057
+
+[[x-prismlauncher-dependencies]]
+addonId = '871755'
+type = 'REQUIRED'

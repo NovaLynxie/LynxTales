@@ -1,0 +1,25 @@
+filename = 'EffectDescriptions-v21.1.1-1.21.1-NeoForge.jar'
+name = 'Effect Insights'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] EffectDescriptions-v21.1.1'
+
+[download]
+hash = '700355b3e6c5f11e56d0aff6cc6825604e910da0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6077939
+project-id = 891326
+
+[[x-prismlauncher-dependencies]]
+addonId = '544048'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '495476'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'coldsweat_altitude-0.8.2.jar'
+name = 'Cold Sweat: Altitude'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'coldsweat_altitude-0.8.2.jar'
+
+[download]
+hash = '28f49899378dbd0868b3440183b6ea5d1685e01a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9409293
+project-id = 1528631

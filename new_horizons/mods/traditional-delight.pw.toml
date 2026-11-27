@@ -1,0 +1,18 @@
+filename = 'traditionaldelight-1.21.1-1.0.2.jar'
+name = 'Traditional Delight'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'traditionaldelight-1.21.1-1.0.2.jar'
+
+[download]
+hash = '82adf4666a38e86dfc496a012f7725120f3375bf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9023875
+project-id = 1713705

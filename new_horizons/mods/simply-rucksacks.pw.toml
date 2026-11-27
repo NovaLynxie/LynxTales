@@ -1,0 +1,29 @@
+filename = 'simplyrucksacks-1.0.1.jar'
+name = 'Simply Rucksacks'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'simplyrucksacks-1.0.1.jar'
+
+[download]
+hash = '60bd3ac49a5f67fc4f8521e08121304cf6e72418'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8937377
+project-id = 1696853
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '393442'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1152882'
+type = 'OPTIONAL'

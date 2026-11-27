@@ -1,0 +1,21 @@
+filename = 'aether_enhanced_extinguishing-1.21.1-1.0.0-neoforge.jar'
+name = 'Aether Addon: Enhanced Extinguishing'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Enhanced Extinguishing - 1.21.1-1.0.0-neoforge'
+
+[download]
+hash = '7f54bfae608a514c2b94f694f23f607b1462e32e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6040713
+project-id = 884860
+
+[[x-prismlauncher-dependencies]]
+addonId = '255308'
+type = 'REQUIRED'

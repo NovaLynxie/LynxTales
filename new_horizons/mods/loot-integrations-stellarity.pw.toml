@@ -1,0 +1,36 @@
+filename = 'lootintegrations_stellarity-1.3.jar'
+name = 'Loot Integrations: Stellarity'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.21.1',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2',
+    '26.3'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'lootintegrations_stellarity-1.3.jar'
+
+[download]
+hash = 'a6ce9b8c19084cfed2e2511b6c767ac21c45101e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9573601
+project-id = 1269720
+
+[[x-prismlauncher-dependencies]]
+addonId = '580689'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'power-components-1.3.0.jar'
+name = 'Create: Power Components'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'power-components-1.3.0.jar'
+
+[download]
+hash = '29c65bbba06ce84cb4bd3e23644b548105f03655'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9031604
+project-id = 1659527
+
+[[x-prismlauncher-dependencies]]
+addonId = '1321420'
+type = 'REQUIRED'

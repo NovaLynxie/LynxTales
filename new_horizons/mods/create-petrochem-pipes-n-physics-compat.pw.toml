@@ -1,0 +1,25 @@
+filename = 'petrochem-pnp-compat-1.1.2-neo.jar'
+name = 'Create: Petrochem - Pipes n Physics Compat'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'petrochem-pnp-compat-1.1.2-neo'
+
+[download]
+hash = 'f1bced61a1177c951277a5d24c96266be125d763'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9008609
+project-id = 1687784
+
+[[x-prismlauncher-dependencies]]
+addonId = '1494004'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1526086'
+type = 'REQUIRED'

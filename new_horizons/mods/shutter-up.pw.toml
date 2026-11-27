@@ -1,0 +1,25 @@
+filename = 'shutterup-neoforge-1.21.1-1.2.1.jar'
+name = 'Shutter Up!'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ShutterUp NeoForge 1.21.1 - 1.2.1'
+
+[download]
+hash = 'a63264a3c4af56ae4fb7f09436e7f1e84baf7837'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9115125
+project-id = 1420451
+
+[[x-prismlauncher-dependencies]]
+addonId = '417430'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '628539'
+type = 'OPTIONAL'

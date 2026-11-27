@@ -1,0 +1,25 @@
+filename = 'aeroencasedpipe-1.0.7.jar'
+name = 'Create Aeronautics: Encased Fluid Pipes'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aeroencasedpipe-1.0.7.jar'
+
+[download]
+hash = '94012ef7cb564267caa91e29a63d48c32be0b341'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8255160
+project-id = 1577030
+
+[[x-prismlauncher-dependencies]]
+addonId = '676721'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

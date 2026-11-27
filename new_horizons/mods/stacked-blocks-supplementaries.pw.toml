@@ -1,0 +1,25 @@
+filename = 'stackedblockssupplementaries-25.05.06-1.21-neoforge.jar'
+name = 'Stacked Blocks: Supplementaries'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Stacked Blocks: Supplementaries 25.05.06 - 1.21+'
+
+[download]
+hash = '6c5ef65455b7e4fb2decd8b90fef44c00f6dba3f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6503179
+project-id = 1259081
+
+[[x-prismlauncher-dependencies]]
+addonId = '1144737'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '412082'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'civilis_technology-1.0.3-universal-1.21.1.jar'
+name = 'Civillis Technology Compatibility'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'civilis_technology-1.0.3-universal-1.21.1.jar'
+
+[download]
+hash = 'bcb706a6749e53ab7bf5c747ac9de0a077ccb165'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9374627
+project-id = 1499755
+
+[[x-prismlauncher-dependencies]]
+addonId = '1460803'
+type = 'REQUIRED'

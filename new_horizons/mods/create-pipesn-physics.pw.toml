@@ -1,0 +1,25 @@
+filename = 'pipesnphysics-3.2.1.jar'
+name = "Create: Pipes'n Physics"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'pipesnphysics-3.2.1.jar'
+
+[download]
+hash = 'bfcee82abd51ede6f7bf3e7705e166abb982a70f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8849438
+project-id = 1526086
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1312371'
+type = 'OPTIONAL'
